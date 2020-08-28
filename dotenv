@@ -1,0 +1,4 @@
+# This is a template file to know which environment variables need to be added to a .env file
+PORT=3000
+ENV='development'
+DB=''
